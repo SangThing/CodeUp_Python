@@ -1,0 +1,6 @@
+twe = input() 
+lve = input()
+twe =int(twe)
+lve =int(lve)
+print(twe)
+print(lve)

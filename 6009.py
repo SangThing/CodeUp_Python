@@ -1,0 +1,2 @@
+nine = input()
+print(nine)

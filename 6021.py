@@ -1,0 +1,6 @@
+twentyone = input()
+print(twentyone[0])
+print(twentyone[1])
+print(twentyone[2])
+print(twentyone[3])
+print(twentyone[4])
